@@ -1,6 +1,12 @@
 # Quark - .NET Microservices Example
 
-Commands run to create from scratch
+Service Bus receives: commands, events
+
+## Stack
+
+- Messaging/Service Bus: RabbitMQ
+
+## Commands run to create from scratch
 
 ```bash
 dotnet new sln --name Quark
