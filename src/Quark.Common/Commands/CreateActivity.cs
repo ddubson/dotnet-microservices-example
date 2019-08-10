@@ -4,7 +4,7 @@ namespace Quark.Common.Commands
 {
     public class CreateActivity: IAuthenticatedCommand
     {
-        public Guid id { get; set; }
+        public Guid Id { get; set; }
         public Guid UserId { get; set; }
         public string Category { get; set; }
         public string Name { get; set; }
