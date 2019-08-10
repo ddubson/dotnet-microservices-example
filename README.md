@@ -4,7 +4,7 @@ Service Bus receives: commands, events
 
 ## Stack
 
-- Messaging/Service Bus: RabbitMQ
+- Messaging/Service Bus: RabbitMQ -- `RawRabbit` library
 
 ## Commands run to create from scratch
 
